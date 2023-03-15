@@ -1,4 +1,0 @@
-name: ServerManager
-version: '${project.version}'
-main: de.mattin.servermanager.ServerManager
-api-version: 1.16
